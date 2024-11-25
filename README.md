@@ -31,7 +31,7 @@ git clone https://github.com/Gordeyko/LLR6
 локальный репозиторий. Работу продолжила локально, перейдя в папку
    
 ```
-cd gLR6
+cd LLR6
 ```
 
 ![image](https://github.com/user-attachments/assets/da438b65-9488-41b8-a96e-5243a67e706a)
