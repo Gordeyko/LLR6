@@ -64,7 +64,7 @@ git log -p
 ![image](https://github.com/user-attachments/assets/e5d60de1-03ca-45d1-8d8c-a8d0221d3c69)
 
 
-10. Выполнила слияние в ветку master
+10. Cоздала новую ветку, внесла изменения и выполнила слияние в ветку master
     
 ```
 git checkout -b branch1
