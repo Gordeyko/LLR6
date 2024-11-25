@@ -20,7 +20,7 @@ git config --global user.email "LunarGames31@bk.ru"
 6. Клонировала свой личный удалённый репозиторий на компьютер (назвала работу LLR6, так как переделывала 3 раза)
    
 ```
-git clone https://github.com/Gordeyko/gLR6
+git clone https://github.com/Gordeyko/LLR6
 
 ```
 
