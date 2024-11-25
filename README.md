@@ -106,7 +106,7 @@ git commit -m "изменение3"
     
 ```
 git log --oneline
-git revert 5351a1d
+git revert d8028ce
 ```
 
 ![image](https://github.com/user-attachments/assets/462c0927-e39a-4a8d-baec-8f4bbe57a499)
